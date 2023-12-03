@@ -14,3 +14,5 @@ The puzzle input must be provided exactly as provided by advent of code site: no
 Every script outputs the solution and a trailing newline character.  
 This is a command line example to solve a puzzle:  
 cat 01-input.txt | go run 01-part1.go
+
+Tested with golang version 1.21.4
